@@ -1,5 +1,7 @@
 import "./App.css";
 
+const cardImages = [];
+
 function App() {
   return (
     <div className="App">
